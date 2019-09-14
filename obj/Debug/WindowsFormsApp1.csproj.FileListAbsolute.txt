@@ -8,3 +8,14 @@ C:\Users\joelt\Desktop\Progamas\Practica de arreglos\WindowsFormsApp1\obj\Debug\
 C:\Users\joelt\Desktop\Progamas\Practica de arreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\joelt\Desktop\Progamas\Practica de arreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\joelt\Desktop\Progamas\Practica de arreglos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\bin\Debug\WindowsFormsApp1.exe
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.Arrays.resources
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.FrmGastosDiarios.resources
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.exe
+C:\Users\joelt\Desktop\Progamas\Practica de arreglos\Practica-de-arreglos\obj\Debug\WindowsFormsApp1.pdb
